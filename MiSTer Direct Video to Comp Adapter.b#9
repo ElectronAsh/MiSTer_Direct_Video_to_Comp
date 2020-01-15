@@ -162,6 +162,7 @@
 <hole x="-15.8496" y="-27.432" drill="3.2"/>
 <hole x="16.764" y="-27.432" drill="3.2"/>
 <hole x="16.764" y="27.432" drill="3.2"/>
+<text x="-11.5824" y="20.7264" size="1.6764" layer="21">MiSTer Direct Video to Comp</text>
 </plain>
 <libraries>
 <library name="con-wurth">

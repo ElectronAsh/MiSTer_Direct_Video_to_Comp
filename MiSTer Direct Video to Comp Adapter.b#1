@@ -1659,7 +1659,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="36.83" y="22.86" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="1200146" x="36.83" y="22.86" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="22.3266" y="19.2024" size="1.27" layer="25" rot="R90"/>
-<attribute name="VALUE" x="22.86" y="14.605" size="1.27" layer="27"/>
+<attribute name="VALUE" x="30.5054" y="18.8976" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="GREEN/Y" library="con-lumberg" package="WBTOR1" value="WBTOR1" x="36.83" y="7.62" smashed="yes" rot="R270">
 <attribute name="OC_NEWARK" value="98K2588" x="36.83" y="7.62" size="1.778" layer="27" rot="R270" display="off"/>
@@ -1667,7 +1667,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="36.83" y="7.62" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="1200146" x="36.83" y="7.62" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="22.3266" y="3.6576" size="1.27" layer="25" rot="R90"/>
-<attribute name="VALUE" x="22.86" y="-0.635" size="1.27" layer="27"/>
+<attribute name="VALUE" x="30.5054" y="3.6576" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="BLUE/BY" library="con-lumberg" package="WBTOR1" value="WBTOR1" x="36.83" y="-7.62" smashed="yes" rot="R270">
 <attribute name="OC_NEWARK" value="98K2588" x="36.83" y="-7.62" size="1.778" layer="27" rot="R270" display="off"/>
@@ -1675,7 +1675,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="36.83" y="-7.62" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="1200146" x="36.83" y="-7.62" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="22.3266" y="-11.2776" size="1.27" layer="25" rot="R90"/>
-<attribute name="VALUE" x="22.86" y="-15.875" size="1.27" layer="27"/>
+<attribute name="VALUE" x="30.5054" y="-11.5824" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="CSYNC" library="con-lumberg" package="WBTOR1" value="WBTOR1" x="36.83" y="-22.86" smashed="yes" rot="R270">
 <attribute name="OC_NEWARK" value="98K2588" x="36.83" y="-22.86" size="1.778" layer="27" rot="R270" display="off"/>
@@ -1683,7 +1683,7 @@ design rules under a new name.</description>
 <attribute name="MF" value="" x="36.83" y="-22.86" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="OC_FARNELL" value="1200146" x="36.83" y="-22.86" size="1.778" layer="27" rot="R270" display="off"/>
 <attribute name="NAME" x="22.3266" y="-26.2128" size="1.27" layer="25" rot="R90"/>
-<attribute name="VALUE" x="22.86" y="-31.115" size="1.27" layer="27"/>
+<attribute name="VALUE" x="30.5054" y="-26.8224" size="1.27" layer="27" rot="R90"/>
 </element>
 <element name="SOG" library="adafruit" package="EG1218" value="" x="14.6304" y="-0.3048" smashed="yes" rot="R180">
 <attribute name="NAME" x="13.0556" y="2.8448" size="1.27" layer="25" font="vector"/>
